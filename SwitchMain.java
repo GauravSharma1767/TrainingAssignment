@@ -1,4 +1,4 @@
-
+//SwitchCaseProgram
 public class SwitchMain {
 
 	public static void main(String[] args)
